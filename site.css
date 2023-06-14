@@ -1,0 +1,80 @@
+#t{
+    text-align: center;
+    font-size: 2ch;
+    color: white;
+}
+#t0{
+    text-align: center;
+    height: 100px;
+    font-size: 10ch;
+    color: red;
+}
+#t1{
+    color: red;
+    text-align: center;
+    font-family: monospace;
+    font-size: 7ch;
+}
+#t2{
+    color: white;
+    text-align: center;
+    font-size: 3ch;
+}
+#t3{
+    color: white;
+    text-align: center;
+    font-size: 3ch;
+}
+#t4{
+    color: white;
+    text-align: center;
+    font-size: 3ch;
+}
+#t5{
+    color: white;
+    text-align: center;
+    font-size: 3ch;
+}
+#button{
+    text-align: center;
+    width: 15em;
+    height: 5em;
+    background-color: red;
+    color: white;
+}
+
+#t21{
+    text-align: center;
+    color: yellow;
+    font-size: 6ch;
+}
+#t22{
+    text-align: center;
+    font-size: 3ch;
+    color: #666666;
+}
+#t23{
+    text-align: center;
+    font-size: 3ch;
+    color: #666666;
+}
+#t24{
+    text-align: center;
+    font-size: 3ch;
+    color: #666666;
+    height: 3cm;
+}
+#t25{
+    font-size: 3ch;
+    vertical-align: bottom;
+}
+#body2{
+    background-color: orchid;
+    text-align: center;
+}
+#button2{
+    background-color: #00CC00;
+    font-size: 2ch;
+    width: 25ch;
+    height: 5ch;
+}
